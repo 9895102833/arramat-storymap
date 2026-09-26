@@ -224,5 +224,4 @@ var config = {
             id: 'handcraft-shop',
             title: 'Elly Handcraft Shop',
             description: 'എൻ ഊര് തദ്ദേശീയ കരകൗശല ഉത്പന്ന വിപണന കേന്ദ്രം.',
-
 };
