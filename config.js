@@ -1,6 +1,6 @@
 var config = {
     style: 'mapbox://styles/mapbox/streets-v11',
-    accessToken: 'YOUR_MAPBOX_ACCESS_TOKEN', // ⚠️ ഇവിടെ നിങ്ങളുടെ യഥാർത്ഥ pk. ടോക്കൺ നൽകുക
+    accessToken: 'pk.eyJ1IjoiOTg5NTEwMjgzMyIsImEiOiJjbXVpNGxiYTcwdnk5MnlzYTY1bjR0ZnFlIn0.YaChJ7qN7E6gWJXOpMTxpg', // ⚠️ ഇവിടെ നിങ്ങളുടെ യഥാർത്ഥ pk. ടോക്കൺ നൽകുക
     showMarkers: true,
     markerColor: '#3FB1CE',
     theme: 'light',
