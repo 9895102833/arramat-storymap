@@ -139,7 +139,7 @@ var config = {
         {
             id: 'dtpc-toilet',
             title: 'DTPC Public Toilet, Pookode',
-            description: 'പൂക്കോട് തടാക പരിസരത്തെ ഡി.റ്റി.പി.സി പബ്ലിക് ടോയ്‌ലറ്റ്.',
+            description: 'പൂക്കോട് തടാക പരിസരത്തെ ഡി.റ്റി.പി.സി പബ്ലിക് ടോയ്‌‌ലറ്റ്.',
             location: { center: [76.0279024, 11.536199], zoom: 15, pitch: 0, bearing: 0 },
             onChapterEnter: [], onChapterExit: []
         },
@@ -224,4 +224,9 @@ var config = {
             id: 'handcraft-shop',
             title: 'Elly Handcraft Shop',
             description: 'എൻ ഊര് തദ്ദേശീയ കരകൗശല ഉത്പന്ന വിപണന കേന്ദ്രം.',
+            location: { center: [76.0248500, 11.5325000], zoom: 15, pitch: 0, bearing: 0 }, // എൻ ഊര് ടിക്കറ്റ് കൗണ്ടറിന് സമീപമുള്ള നിർദ്ദിഷ്ട കോർഡിനേറ്റ്
+            onChapterEnter: [], 
+            onChapterExit: []
+        }
+    ]
 };
